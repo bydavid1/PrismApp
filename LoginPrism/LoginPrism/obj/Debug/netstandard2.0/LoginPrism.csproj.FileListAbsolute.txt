@@ -1,0 +1,7 @@
+C:\Users\FOX ONE\source\repos\LoginPrism\LoginPrism\LoginPrism\bin\Debug\netstandard2.0\LoginPrism.deps.json
+C:\Users\FOX ONE\source\repos\LoginPrism\LoginPrism\LoginPrism\bin\Debug\netstandard2.0\LoginPrism.dll
+C:\Users\FOX ONE\source\repos\LoginPrism\LoginPrism\LoginPrism\obj\Debug\netstandard2.0\LoginPrism.csprojAssemblyReference.cache
+C:\Users\FOX ONE\source\repos\LoginPrism\LoginPrism\LoginPrism\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\FOX ONE\source\repos\LoginPrism\LoginPrism\LoginPrism\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\FOX ONE\source\repos\LoginPrism\LoginPrism\LoginPrism\obj\Debug\netstandard2.0\LoginPrism.AssemblyInfoInputs.cache
+C:\Users\FOX ONE\source\repos\LoginPrism\LoginPrism\LoginPrism\obj\Debug\netstandard2.0\LoginPrism.AssemblyInfo.cs
